@@ -45,7 +45,7 @@ yarn test:ui
 
 ### Easy
 
-1. [Two Sum](src/problems/easy/two-sum) - [测试](tests/problems/easy/two-sum.spec.ts)
+1. [Two Sum](src/problems/easy/two-sum.ts) - [测试](tests/problems/easy/two-sum.test.ts)
 
 ### Medium
 
