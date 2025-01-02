@@ -5,8 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "test": "playwright test",
-    "test:ui": "playwright test --ui",
-    "test:perf": "playwright test --grep '性能测试'"
+    "test:ui": "playwright test --ui"
   },
   "keywords": [
     "leetcode",
